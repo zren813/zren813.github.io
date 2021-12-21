@@ -981,7 +981,7 @@ fieldset[disabled] .btn {
     10. footer section
 ==================================================*/
 .footer {
-  background-color: #111;
+  background-color: black;
   padding: 80px 0;
 }
 .footer-text {
@@ -993,4 +993,10 @@ fieldset[disabled] .btn {
 }
 .footer-text p strong {
   letter-spacing: 1px;
+}
+.footer h5 {
+  color: white;
+}
+.footer a {
+  color: white;
 }
